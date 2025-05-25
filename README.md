@@ -28,6 +28,19 @@
 
 ###
 
+<h6 align="center">Socials:</h6>
+
+###
+<br clear="both">
+
+<div align="center">
+<a href="https://www.kaggle.com/nityavermaa" target="_blank">
+  <img src="https://www.vectorlogo.zone/logos/kaggle/kaggle-icon.svg" height="30" alt="kaggle logo" />
+</a>
+</div>
+
+###
+
 <br clear="both">
 
 <h6 align="center">Stats:</h6>
