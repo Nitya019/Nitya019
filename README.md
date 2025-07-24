@@ -65,6 +65,6 @@
 
 <br clear="both">
 
-<img align="left" src="https://profile-counter.glitch.me/Nitya019/count.svg?"  />
+<!---<img align="left" src="https://profile-counter.glitch.me/Nitya019/count.svg?"/>--->
 
 ###
