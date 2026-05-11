@@ -65,6 +65,7 @@
 
 <br clear="both">
 
-<!---<img align="left" src="https://profile-counter.glitch.me/Nitya019/count.svg?"/>--->
+
+![Profile view counter on GitHub](https://komarev.com/ghpvc/?username=Nitya019)
 
 ###
